@@ -1,1 +1,2 @@
 line 1 from merge 2 file.
+this line from github.
