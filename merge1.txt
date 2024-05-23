@@ -1,1 +1,2 @@
 this is line 1 in merge1 file.
+line 2 from github
